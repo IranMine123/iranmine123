@@ -9,7 +9,7 @@ I share some of my Front-End ideas, tips and projects on [Telegram](https://t.me
 to reach me you can message on my [Discord](https://discord.gg/xbTxvGGPVj
 ) Server and [Telegram](https://t.me/@IranMine123) account.
 
-visit my [Github](https://iranmine123.github.io) Website.
+visit my [Github](https://iranmine123.github.io) Web page.
 
 <!--
 **IranMine123/iranmine123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
