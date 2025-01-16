@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I'm **Arman** (/ɑːɹmɑːn/). my Username is **IranMine123** also aka _TheLastProphet_<br>
+I'm **Arman** (/ɑːɹmɑːn/). my Username is **IranMine123**<br>
 I'm a Jr. Full-Stack Dev 🧑‍💻 and love to make Websites 🌐<br>
 also, I have experience in Minecraft Development like setting up Vanilla and Spigot Servers, making Fabric mods and Spigot plugins.<br>
-currently, I'm upgrading my Full-Stack Web Development skills and sometimes freelancing for Front-End Projects.<br>
-I share some of my Front-End ideas, tips and projects on [Telegram](https://t.me/@ArmanStudios), [Discord](https://discord.gg/xbTxvGGPVj), and TikTok (Soon).<br>
+currently, I'm listening for full-stack projects.<br>
 
 by the way did you checked out my [mcpm](https://github.com/ArmanStudios/mcpm) Project?
 
