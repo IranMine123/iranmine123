@@ -4,16 +4,13 @@
 ## Hi there 👋
 
 I'm **Arman** (/ɑːɹmɑːn/). my Username is **IranMine123**<br>
-I'm a Jr. Full-Stack Dev 🧑‍💻 and love to make Websites 🌐<br>
+I'm a Backend Dev and love to make Websites<br>
 also, I have experience in Minecraft Development like setting up Vanilla and Spigot Servers, making Fabric mods and Spigot plugins.<br>
 currently, I'm listening for full-stack projects.<br>
 
-by the way did you checked out my [mcpm](https://github.com/ArmanStudios/mcpm) Project?
+by the way did you checked out my [mcpm](https://github.com/ArmanStudios/mcpm) project?
 
-to reach me you can message on my [Discord](https://discord.gg/xbTxvGGPVj
-) Server and [Telegram](https://t.me/@IranMine123) account.
-
-visit my [Github](https://iranmine123.github.io) Web page.
+[Github Page](https://iranmine123.github.io) | [Discord](https://discord.gg/xbTxvGGPVj) | [Telegram](https://t.me/@IranMine123) | [X](https://x.com/@IranMine123) | [Instagram](https://instagram.com/IranMine123)
 <!--
 **IranMine123/iranmine123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
