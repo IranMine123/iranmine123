@@ -16,7 +16,7 @@ by the way did you checked out my [mcpm](https://github.com/ArmanStudios/mcpm) p
 
 # 👋 Hi there 👋
 
-I'm **Arman**. I’m a web developer specializing in **Laravel/PHP**—a kindly full-stack dev who enjoys building websites and exploring new tech. My approach is hands-on, friendly, and always focused on creating great web experiences.
+I'm **Arman**. I’m a web developer specializing in **Laravel/PHP**—a kindly full-stack dev who enjoys building websites and exploring new tech. My approach is hands-on, friendly, and always focused on creating great web experiences. currently my open source project is [MCR](https://github.com/mc-resource/cli). be sure to check it out!
 
 <!--
 ## 🛠️ Frameworks and Languages
